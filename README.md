@@ -7,7 +7,7 @@ O projeto reproduz uma página institucional para divulgação de um curso intro
 ## 🔗 Demonstração
 
 **Acesse o projeto publicado:**
-https://luizzvictorino.github.io/projeto-landingPage/
+[https://luizzvictorino.github.io/projeto-landingPage/](https://rad-chaja-1bf60f.netlify.app/)
 
 ## 📋 Sobre o projeto
 
